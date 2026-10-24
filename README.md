@@ -4,6 +4,10 @@
 
 Codexと並べて使う、Mac用のスキルランチャー。木製のチップを押すと、現在のチャットの入力欄へスキルを追記します。
 
+<a href="https://github.com/2ndNuts/skill-pallet-releases/releases/download/v0.3.6-beta.1/Skill-Pallet-0.3.6-beta.1-PV.mp4"><img src="assets/pv-hook.gif" width="640" alt="Skill Pallet 0.3.6 Beta 1のPVの冒頭。木製のチップが3枚落ちて積み重なり、ロゴになる"></a>
+
+[PVを見る（30秒・MP4）](https://github.com/2ndNuts/skill-pallet-releases/releases/download/v0.3.6-beta.1/Skill-Pallet-0.3.6-beta.1-PV.mp4) · 効果音と木目テクスチャのクレジットは[第三者素材](THIRD_PARTY_NOTICES.md)に記載しています。
+
 **[0.3.6 Beta 1をダウンロード](https://github.com/2ndNuts/skill-pallet-releases/releases/download/v0.3.6-beta.1/Skill-Pallet-0.3.6-beta.1-arm64.zip)** · [リリース情報](https://github.com/2ndNuts/skill-pallet-releases/releases/tag/v0.3.6-beta.1) · [インストール手順](INSTALL.md)
 
 ## ベータ版について
